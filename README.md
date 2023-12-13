@@ -12,7 +12,7 @@
 
 <h3 align="center"> Versão Desktop</h3>
 
-<img src="" alt="print-site1">
+<img src="https://github.com/EvertonDepla/We-Care/blob/master/assets/we%20care%20desktop.PNG?raw=true" alt="print-site1">
 
 <h3 align="center"> Versão Mobile</h3>
 
